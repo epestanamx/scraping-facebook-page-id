@@ -1,0 +1,24 @@
+{
+  "name": "scraping-facebook-page-id",
+  "version": "1.0.0",
+  "description": "Get facebook page id from facebook url using nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epestanamx/scraping-facebook-page-id.git"
+  },
+  "author": "Ernesto Pestaña <epestanamx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epestanamx/scraping-facebook-page-id/issues"
+  },
+  "homepage": "https://github.com/epestanamx/scraping-facebook-page-id#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "url-parse": "^1.5.1"
+  }
+}
